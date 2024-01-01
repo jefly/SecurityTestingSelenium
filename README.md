@@ -1,1 +1,1 @@
-# SecurityTestingSelenium (ZAP, Cucumber, Selenium, Java)
+# SecurityTestingSelenium (ZAP API, Cucumber, Selenium, Java)
