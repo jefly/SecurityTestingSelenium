@@ -1,4 +1,4 @@
-# SecurityTestingSelenium (ZAP API, Cucumber, Selenium, Java)
+# Security Test Automation (ZAP API, Cucumber, Selenium, Java)
 This GitHub repository contains a comprehensive automation framework for Security testing using ZAP API, Cucumber, Selenium and Java. It provides a structured approach for automating security testing scenarios
 
 1. Download maven from `https://maven.apache.org/install.html`, copy the path to the bin folder and add it to the `'PATH'` variable under environment variables (user & system).
