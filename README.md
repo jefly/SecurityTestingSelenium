@@ -5,4 +5,8 @@ This GitHub repository contains a comprehensive automation framework for Securit
 
 2. Check the maven is set up properly by entering the `mvn -version` on a terminal.
 
-3. Go to the root of the extracted project, open a terminal for that location & type `mvn clean install` which will download the necessary dependencies for the project.
+3. Download ZAP tool from `https://www.zaproxy.org/download/` and install.
+
+4. Open the ZAP tool and start a new session.
+
+5. Go to the root of the extracted project, open a terminal for that location & type `mvn clean install` which will download the necessary dependencies for the project.
